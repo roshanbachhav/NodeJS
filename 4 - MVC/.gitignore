@@ -1,0 +1,7 @@
+node_modules/
+
+
+# make package.json folder CMD following
+    - npm init
+# nodemon install
+    - npm install nodemon
